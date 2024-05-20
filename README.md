@@ -1,12 +1,7 @@
+<<<<<<< HEAD
+# Header
+ This is the bug fix
+ Had to add some documentation to describe it
+=======
 # NewHeader
 this code is awesome
-## Header 2
-Some more stuff here
-### Header 3
-
-```sh
-git push -u origin master
-sudo yum update #don't forget to update
-```
-
-hello again
